@@ -1,7 +1,7 @@
 1. Install Python (3.10+) if not already installed.
 
 2. Install required packages:
-   pip install streamlit pandas yfinance matplotlib seaborn plotly numpy scikit-learn 
+   pip install streamlit pandas yfinance matplotlib seaborn plotly numpy scikit-learn xgboost
 
 3. Make sure the following files are in the same folder:
    - app.py
